@@ -45,5 +45,4 @@ class heroi{
         
       const heroi4 = new heroi ('Herói ninja', 27, 'ninja');
       	heroi4.atacar ();     	
-      
      
